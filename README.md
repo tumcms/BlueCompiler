@@ -7,6 +7,7 @@ This is a barebones compiler written with the project [IFC Allignment](https://w
 
 Feel free to extend and modify the source code as you please but please remember to provide references to this repo.
 
+Note: This work was done within an IDP project (http://www.cms.bgu.tum.de/publications/reports/2015_Sengupta_Amann.pdf) at the Technische Universität München at the Chair of Computational Modeling and Simulation.
 
 Logical components
 ----------------------------------------------
